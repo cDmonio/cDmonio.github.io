@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Acerca de Mi
 permalink: /about/
 ---
 
-Some information about you!
+Soy Joe, futuro programador de multiplataformas.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Me gustan las nuevas tecnologias; sobretodo la Realidad Aumentada.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:joegv7@gmail.com)

@@ -10,6 +10,6 @@ Soy Joe, futuro programador de multiplataformas.
 
 Me gustan las nuevas tecnologias; sobretodo la Realidad Aumentada.
 
-### Contact me
+### Contactame
 
 [email@domain.com](mailto:joegv7@gmail.com)
